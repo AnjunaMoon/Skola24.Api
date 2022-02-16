@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skola24.Api", "Skola24.Api\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skola24.Infrasctructure", "Skola24.Infrasctructure\Skola24.Infrasctructure.csproj", "{76E1D516-E9EF-4A5E-B090-A473BF17B3D6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{41828591-F85A-479E-BE48-2DA01653EF12}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
